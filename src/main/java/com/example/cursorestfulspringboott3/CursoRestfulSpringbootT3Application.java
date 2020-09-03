@@ -9,5 +9,4 @@ public class CursoRestfulSpringbootT3Application {
 	public static void main(String[] args) {
 		SpringApplication.run(CursoRestfulSpringbootT3Application.class, args);
 	}
-
 }
